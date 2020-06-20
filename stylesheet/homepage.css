@@ -59,10 +59,10 @@ h1 {
 }
 
 .button-container {
-  width: 45%;
+  width: 5%;
   position: absolute;
-  top: 79%;
-  left: 10%;
+  top: 60%;
+  left: 30%;
 }
 
 .sns-btn {
@@ -74,11 +74,11 @@ h1 {
 }
 
 .mybtn-fb {
-  background: #3b539a;
+  background: #c3e7ff;
 }
 
 .mybtn-tw {
-  background: #39a9f2;
+  background: #8dd0fc;
 }
 /* MARK: - First Block End */
 
@@ -108,6 +108,7 @@ h1 {
 .my-story-title {
   width: 100%;
   font-size: 30px;
+  font-family: cursive;
   font-weight: bold;
   text-align: center;
 }
@@ -121,7 +122,7 @@ h1 {
   background-size:  cover;
   background-position-y: center;
   background-position-x: center;
-  width: 400px;
+  width: 300px;
   height: auto;
 }
 .image-second{
@@ -129,7 +130,7 @@ h1 {
   background-size:  cover;
   background-position-y: center;
   background-position-x: center;
-  width: 400px;
+  width: 300px;
   height: auto;
 }
 .image-third{
@@ -137,7 +138,7 @@ h1 {
   background-size:  cover;
   background-position-y: center;
   background-position-x: center;
-  width: 400px;
+  width: 300px;
   height: auto;
 }
 /* MARK: - Second Block End */
